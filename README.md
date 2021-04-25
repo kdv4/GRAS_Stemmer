@@ -24,7 +24,7 @@ Change basic path accordingly.
 
         - Step1: Pre-processing.ipynb
         - Step2: GRAS.ipynb        
-        - Step3: Stemming adn Retrieval.ipynb
+        - Step3: Stemming and Retrieval.ipynb
 
 ### Result:
 MAP score
